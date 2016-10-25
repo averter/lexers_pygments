@@ -8,6 +8,9 @@ ansys APDL lexer info:
 - based on https://github.com/dieter-wilhelm/ansys-mode
 
 Installation in Linux 
+
 1- Copy files to /usr/lib/python2.7/dist-packages/pygments/lexers
+
 2- Run in that directory "sudo python _mapping.py"
+
 3- Enjoy!
