@@ -1,5 +1,7 @@
 # ANSYS and gcode lexers of pygments
-######This is a work in progress####
+######UPDATE#####
+This repository is now officially part of pygments 2.9
+
 Anyone who wants to add these lexers to pygments please feel free to do so.
 I just didn't do it myself because I don't want to create an account on Bitbucket. Please inform me of any bugs/errors since I'm fairly new to Python.
 
